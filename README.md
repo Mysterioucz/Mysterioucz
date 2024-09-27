@@ -56,7 +56,7 @@
 
 ###
 
-  <img align="right" width="15%" src="gigachad.jpg" alt="GigaChad image" />
+  <img align="right" width="13%" src="gigachad.jpg" alt="GigaChad image" />
   <!-- Snake animation on the left -->
   <img src="https://raw.githubusercontent.com/Mysterioucz/Mysterioucz/output/snake.svg" alt="Snake animation" width="85%"/>
   
