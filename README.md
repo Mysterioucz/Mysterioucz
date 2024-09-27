@@ -56,13 +56,13 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
   <!-- Snake animation on the left -->
   <img src="https://raw.githubusercontent.com/Mysterioucz/Mysterioucz/output/snake.svg" alt="Snake animation" style="max-width: 70%;" />
   
   <!-- GigaChad image on the right -->
-  <img height="250" src="https://dudewipes.com/cdn/shop/articles/gigachad.jpg?v=1667928905&width=1000" alt="GigaChad image" />
-</div>
+  <img align="right" height="250" src="https://dudewipes.com/cdn/shop/articles/gigachad.jpg?v=1667928905&width=1000" alt="GigaChad image" />
+
 
 ###
 
