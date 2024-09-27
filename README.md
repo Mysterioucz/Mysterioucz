@@ -56,7 +56,7 @@
 
 ###
 
-  <img align="right" height="200" src="https://dudewipes.com/cdn/shop/articles/gigachad.jpg?v=1667928905&width=1000" alt="GigaChad image" />
+  <img align="right" height="200" src="gigachad.jpg" alt="GigaChad image" />
   <!-- Snake animation on the left -->
   <img src="https://raw.githubusercontent.com/Mysterioucz/Mysterioucz/output/snake.svg" alt="Snake animation" />
   
