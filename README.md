@@ -58,7 +58,7 @@
 
   <img align="right" width="140" src="gigachad.jpg" alt="GigaChad image" />
   <!-- Snake animation on the left -->
-  <img src="https://raw.githubusercontent.com/Mysterioucz/Mysterioucz/output/snake.svg" alt="Snake animation" width="80%"/>
+  <img src="https://raw.githubusercontent.com/Mysterioucz/Mysterioucz/output/snake.svg" alt="Snake animation" width="85%"/>
   
   <!-- GigaChad image on the right -->
 
