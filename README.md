@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Software Development 💻<br>- Data Structures and Algorithms 📊<br>- C++ Optimization ⚙️<br>- Fitness and Nutrition 🏋️‍♂️<br>- Open Source Contributions 🌐</p>
+- Software Development 💻<br>- Data Structures and Algorithms 📊<br>- C++ Optimization ⚙️<br>- Fitness and Nutrition 🏋️‍♂️<br>- Open Source Contributions 🌐</p>
 
 ###
 
