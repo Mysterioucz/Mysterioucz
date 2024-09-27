@@ -60,9 +60,9 @@
 
 ###
 
-<div style="clear:both">
+
   <img src="https://raw.githubusercontent.com/Mysterioucz/Mysterioucz/output/snake.svg" alt="Snake animation" style="max-width: 80%;" />
-</div>
+
 
 ###
 
