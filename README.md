@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Computer Engineering student currently studying at Chulalongkorn University. I have a deep interest in software development, data structures, and optimizing code performance. I enjoy solving complex problems, especially in C++ and Python.<br><br>I’m also exploring the world of fitness and nutrition, and I often dive into scientific topics like muscle growth and workout optimization. In my spare time, I love exploring new recipes and experimenting with cooking delicious meals and desserts.
+<p align="left">A passionate Computer Engineering student currently studying at Chulalongkorn University. I have a deep interest in software development, data structures, and optimizing code performance. I enjoy solving complex problems, especially in C++ and Python.<br><br>I’m also exploring the world of fitness and nutrition, and I often dive into scientific topics like muscle growth and workout optimization.<br>In my spare time, I love exploring new recipes and experimenting with cooking delicious meals and desserts.
   
 ###
 
